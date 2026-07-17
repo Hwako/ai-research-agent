@@ -4,7 +4,6 @@ Daily AI research digest, sent to your inbox. Searches Google for a set of topic
 scrapes and summarizes the relevant pages, then uses two LLM agents (a summariser and a reviewer) in a
 LangGraph loop to draft and refine a single email before sending it.
 
-Rebuilt locally from [whitew1994WW/email_research_assistant](https://github.com/whitew1994WW/email_research_assistant).
 
 ## How it works
 
