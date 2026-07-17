@@ -1,0 +1,9 @@
+langchain-community
+langchain-core
+langchain-anthropic
+langgraph
+git+https://github.com/sendinblue/APIv3-python-library.git
+beautifulsoup4
+requests
+langchain
+markdown
